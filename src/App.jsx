@@ -1,13 +1,11 @@
-import UserList from "./UserList"
-
+import UserList from "./UserList";
 
 function App() {
-
-  return (
-    <>
-<UserList/>
-    </>
-  )
+    return (
+      <>
+        <UserList />
+      </>
+    );
 }
 
-export default App
+export default App;
